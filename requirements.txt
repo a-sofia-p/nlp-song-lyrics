@@ -1,0 +1,10 @@
+pandas
+lyricsgenius
+requests
+nltk
+bertopic
+umap-learn
+sentence-transformers
+scikit-learn
+altair
+python-dotenv
